@@ -12,7 +12,7 @@ This repository contains a project that demonstrates the English alphabet using 
 
 ## Demo
 
-You can view a live demo of the project [here]().
+You can view a live demo of the project [here](https://rohan-gautam.github.io/English-Aplhabet-using-image-mapping/).
 
 ## Features
 
